@@ -24,7 +24,7 @@ const Introduction = () => {
       <Row>
         <Image src="https://s3-alpha-sig.figma.com/img/53a0/091f/6631d995e4cc0255742a62d2e4fc727a?Expires=1699228800&Signature=if1KDVmSSH7wo675PHqAPH6JuVU2vN2vIjQVGqiwWhWRtaGSKPMHybGXfxwzuaLxAH~SaEhC0xsdvyiqFIiDClOa1y7mgIDA3Zqv8iH1YY56dVbTEacVuAgjnia4y-Iv0xhI-Ilh5hAh9RBpu9Ijz2lpfvKLDJE07AzFFDNLhrwo5vl3TtUKZTFWOf0oHkdR6t0~W7MUnHN78P7rz1Z62iy1zOeUNZdVV8tNIMtQcOtiV8fodflsFLWQjzEcrotC-LR--W9NoAIQtJofFJD8NBLN1USA~LCyeLjC9hnY2XQD9lGoKP2sTdGLcTQF9c5XolUoYaa7aTBkSLUDF4Sk3w__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4" fluid />
       </Row>
-      
+
     </div >
   );
 };
