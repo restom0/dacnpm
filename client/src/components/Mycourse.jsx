@@ -1,4 +1,6 @@
 import "../css/Introduction.css";
+import 'boxicons'
+
 import { Col, Container, Form, Image, InputGroup, Modal, Nav, NavDropdown, Pagination, Row } from 'react-bootstrap';
 import { Dayjs } from 'dayjs';
 import { Calendar, Table } from 'antd';

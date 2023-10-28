@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Button, Checkbox } from "antd";
-
+import 'boxicons'
 import "../css/Login_Register.css";
 import Swal from "sweetalert2";
 import { Col, InputGroup, Form, Row } from "react-bootstrap";

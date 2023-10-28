@@ -5,6 +5,7 @@ import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import Swal from 'sweetalert2';
+import 'boxicons'
 const Header = () => {
     const [show, setShow] = useState(false);
     const handleClose = () => setShow(false);

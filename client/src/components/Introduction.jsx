@@ -1,4 +1,6 @@
 import "../css/Introduction.css";
+import 'boxicons'
+
 import { Col, Container, Form, Image, InputGroup, Modal, NavDropdown, Row } from 'react-bootstrap';
 const Introduction = () => {
   return (

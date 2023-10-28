@@ -5,6 +5,8 @@ import { Calendar, Table } from 'antd';
 import { CalendarProps, Button } from 'antd';
 import dayjs from 'dayjs';
 import { useState } from "react";
+import 'boxicons'
+
 const Contact = () => {
     const onPanelChange = (value, mode) => {
         console.log(value.format('YYYY-MM-DD'), mode);
